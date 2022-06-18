@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=us13579"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=us13579&theme=merko"/>
   
   <br>
   
@@ -40,5 +40,10 @@
 
 
 <h3 align="center">🔒  Problem Solving 🔑</h3>
+<a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579)
+
 
 </div>
