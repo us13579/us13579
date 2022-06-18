@@ -10,7 +10,7 @@
   
   ---
   
- <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
+ <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/></a>
   <a href="https://www.instagram.com/__jsoooo/"><img src="https://img.shields.io/badge/Instagram-c71585?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__jsoooo/"/></a>
   <a href="mailto:us13579@naver.com"><img src="https://img.shields.io/badge/Naver-00FF00?style=flat-square&logo=Naver&logoColor=white&link=us13579@naver.com"/></a>
     
