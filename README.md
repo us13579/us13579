@@ -10,7 +10,7 @@
   
   ---
   
- <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/> </a> 
+ <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/JS's%20DEVLOG-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/> </a> 
   <a href="https://www.instagram.com/__jsoooo/"><img src="https://img.shields.io/badge/Instagram-c71585?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__jsoooo/"/> </a>
   <a href="mailto:us13579@naver.com"><img src="https://img.shields.io/badge/Naver-00FF00?style=flat-square&logo=Naver&logoColor=white&link=us13579@naver.com"/></a>
     
@@ -18,16 +18,20 @@
   
 <h3 align="center">⌨️ Tech Stack 🖱️</h3>
   
----
+<hr>
   
-<p align="center"> Techs that I've used at least once </p>
 
+<p align="center"> 🔊 Techs that I've used mainly </p>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-006400?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-D2691E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  
   <br>
+  
+  <p align="center"> 🔉 Techs that I've used at least once </p>
    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
