@@ -6,7 +6,7 @@
   
   <br>
   
-  ### 😄 Backend Developer 💻
+  ### 😄 BackEnd Developer 💻
   
   ---
   
