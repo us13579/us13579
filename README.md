@@ -6,18 +6,20 @@
   
   <br>
   
-  ### 😄 Ji Soo 💻
+  ### 😄 Backend Developer 💻
   
   ---
   
- <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/></a>
-  <a href="https://www.instagram.com/__jsoooo/"><img src="https://img.shields.io/badge/Instagram-c71585?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__jsoooo/"/></a>
+ <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/> </a> 
+  <a href="https://www.instagram.com/__jsoooo/"><img src="https://img.shields.io/badge/Instagram-c71585?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__jsoooo/"/> </a>
   <a href="mailto:us13579@naver.com"><img src="https://img.shields.io/badge/Naver-00FF00?style=flat-square&logo=Naver&logoColor=white&link=us13579@naver.com"/></a>
     
   <br><br>
   
 <h3 align="center">⌨️ Tech Stack 🖱️</h3>
-
+  
+---
+  
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -40,7 +42,10 @@
 
 
 <h3 align="center">🔒  Problem Solving 🔑</h3>
-<a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
+
+---
+
+<a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-800000?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579)
