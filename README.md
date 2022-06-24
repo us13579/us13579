@@ -7,8 +7,11 @@
   <br>
   
   ### 😄 BackEnd Developer 💻
+
   
   ---
+
+   👇 Click to know about Me
   
  <a href="https://us13579.github.io/"><img src="https://img.shields.io/badge/JS's%20DEVLOG-1E90FF?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/"/> </a> 
   <a href="https://www.instagram.com/__jsoooo/"><img src="https://img.shields.io/badge/Instagram-c71585?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__jsoooo/"/> </a>
@@ -49,10 +52,13 @@
 
 ---
 
-<a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-800000?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
+  👇 Click to know about My Solution
 
+<a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-800000?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
+    
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579) <img src="http://mazandi.herokuapp.com/api?handle=us13579&theme=cold"/>
+  
 
 
 </div>
