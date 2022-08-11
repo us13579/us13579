@@ -57,7 +57,7 @@
 <a href="https://us13579.github.io/tag/#codingtest"><img src="https://img.shields.io/badge/ProblemSolving%20Blog-800000?style=flat-square&logo=Storyblok&logoColor=white&link=https://us13579.github.io/tag/#codingtest"/></a><br><br>
     
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579) <img src="http://mazandi.herokuapp.com/api?handle=us13579&theme=cold"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us13579)](https://solved.ac/us13579) 
   
 
 
